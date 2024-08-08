@@ -1,0 +1,19 @@
+{
+  "name": "image-gen-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "canvas": "^2.11.2",
+    "discord-api-types": "^0.37.85",
+    "discord.js": "^14.15.2",
+    "node-fetch": "^3.3.2"
+  }
+}
