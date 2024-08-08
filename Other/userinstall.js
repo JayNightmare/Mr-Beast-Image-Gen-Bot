@@ -2,10 +2,7 @@ module.exports = {
     date: {
         name: "userinstall",
         description: "User Install command",
-        "integration_type": [
-            0,
-            1
-        ],
+        "integration_type": [1],
         "contexts": [0, 1, 2]
     },
     async execute (interaction) {
